@@ -7,5 +7,7 @@ You should install the following Python packages: xlsxwriter, glob, pandas.
 
 
 ## Reference
-1. [http://xlsxwriter.readthedocs.io/index.html](http://xlsxwriter.readthedocs.io/index.html)
-2. [Interactive Data Analysis with Python and Excel: http://pbpython.com/xlwings-pandas-excel.html](http://pbpython.com/xlwings-pandas-excel.html)
+
+1. xlsxwriter - https://code.google.com/p/word2vec/
+2. Interactive Data Analysis with Python and Excel - https://github.com/sirrice/icd9
+
